@@ -1,3 +1,3 @@
 # Верстка
-- [Параллакс эффект](https://github.com/anastas23ik/layout-parallax-animation-title)
+- [Параллакс эффект](https://anastas23ik.github.io/layout-parallax-animation-title/)
 - 
